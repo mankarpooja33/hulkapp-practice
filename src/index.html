@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <div class="wrapper">
+    <!-- Sidebar -->
+    <nav id="sidebar">
+      <div class="text-uppercase cart-head">Your bag (<span id="item-count"></span>)
+        <button type="button" class="close float-right close-sidebar" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="cart-container">
+      </div>
+      <div class="text-uppercase checkout-container">
+        <div class="subtotal-container">
+          <h4 class="float-left">Subtotal</h4>
+          <h5 class="subtotal"></h5>
+        </div>
+        <button type="button" class="btn btn-dark checkout-btn btn-block">Checkout</button>
+      </div>
+    </nav>
+    <!-- Page Content -->
+    <div id="content">
+      <button class="cart-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-cart" viewBox="0 0 16 16">
+          <path d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5zM3.102 4l1.313 7h8.17l1.313-7H3.102zM5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
+        </svg>
+      </button>
+    </div>
+</div>
+<section class="banner">
+  <div class="container">
+    <div class="row header-logo">
+      <div class="col-12">
+        <img src="./assets/img/logo.png" />
+      </div>
+    </div>
+    <div class="row hero-section">
+      <div class="col-4 col-md-4">
+        <div>
+          <h2>Made for You</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pulvinar ac tortor imperdiet commodo.</p>
+          <button class="learn-more text-uppercase"><a href="#">Learn more</a></button>
+        </div>
+      </div>
+      <div class="col-1 col-md-1"></div>
+      <div class="col-4 col-md-4">
+        <img src="./assets/img/banner-img-1.png" alt="girl image"/>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid container-right">
+    <div class="row">
+      <div class="col-12">
+        <div class="hero-end">
+          <img src="./assets/img/banner-img-3.png" alt="Girl with a shopping bag"  width="406" height="246" />
+          <div class="product-container">
+            <h3 class="text-uppercase">Find your sparkle</h3>
+            <a href="#" class="text-uppercase">Shop our products
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-right" viewBox="0 0 16 16">
+              <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/>
+            </svg></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container container-bottom">
+    <div class="row">
+      <div class="col-6 col-md-4">
+        <img src="./assets/img/banner-img-2.png" class="align-center" alt="Girl with a shopping bag" width="406" height="251"/>
+      </div>
+      <div class="col-6 col-md-4">
+        <img src="./assets/img/banner-img-4.png" alt="Girl with a shopping bag" width="406" height="351"/>
+      </div>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="container filter-french">
+    <div class="row">
+      <div class="col-2 col-md-2"></div>
+      <div class="col-4 col-md-4 filter-image-container">
+        <img src="./assets/img/cap-bar.png" alt="cap bar" class="filter-img"/>
+        <div class="animate-container">
+          <img src="./assets/img/filter-french.png" alt="cap bar" class="filter-img animate-image"/>
+          <img src="./assets/img/filter.png" alt="cap bar" class="filter-img animate-image"/>
+        </div>
+        <div class="jar-container">
+          <img src="./assets/img/Filter-FrenchPress.png" alt="cap bar" class="filter-img filter-jar"/>
+        </div>
+        <img src="./assets/img/behind.png" alt="Filter French" class="filter-img"/>
+      </div>
+      <div class="col-1 col-md-1 layer-pointer">
+        <img src="./assets/img/layer.png" alt="layer image"/>
+        <hr/>
+      </div>
+      <div class="col-5 col-md-5 scroll-content" id="scroll-content">
+        <div class="filter-content">
+          <p>rich flavor without the grit</p>
+          <h4>dual micro filter system</h4>
+          <p>Unlike other presses, the patented double micro-filter keeps your cup extraordinarily free of grit and sludge. The two micro filters snap together trapping sediment and grounds at the bottom of the brewer.</p>
+        </div>
+        <div class="filter-content">
+          <p>stop extraction on a dime</p>
+          <h4>vacuum seal press system</h4>
+          <p>Our double micro-filter is surrounded by a silicone lip that runs along the rim, so it fits snugly inside the container and creates a vacuum seal. When you press the plunger down, extraction stops immediately—so your brew is consistent from the first pour to the last.</p>
+        </div>
+        <div class="filter-content">
+          <p>stays hot for hours</p>
+          <h4>double-wall insulation</h4>
+          <p>Double insulated walls keep your coffee hot and fresh for hours while the exterior remains cool to the touch. Enjoy your coffee at your own pace.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="featured-container container">
+    <div class="row">
+      <div class="col-12 text-center featured-title">
+        <h2 class="text-uppercase font-weight-bold">Featured Collection</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pulvinar ac tortor imperdiet commodo.</p>
+      </div>
+    </div>
+    <div class="row" id="product-wrapper">
+    </div>
+  </div>
+</section>
+  <!-- jQuery CDN - Slim version (=without AJAX) -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <!-- jQuery Custom Scroller CDN -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>

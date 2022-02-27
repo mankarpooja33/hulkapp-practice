@@ -1,0 +1,2194 @@
+{
+    "products": [
+      {
+        "id": 7096251482293,
+        "title": "Shimmery mini skirt with ruching",
+        "handle": "shimmery-mini-skirt-with-ruching",
+        "body_html": "<div> <p class=\"des des_1\"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p> <img src=\"https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854\" alt=\"\"> <ul class=\"style_type_1\"> <li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li> <li>DO NOT BLEACH</li> <li>DO NOT TUMBLE DRY</li> <li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li> <li>DO NOT DRY CLEAN</li> </ul> <h4>Sample Ordered Lista</h4> <ol class=\"style_type_2\"> <li>Comodous in tempor ullamcorper miaculis</li> <li>Pellentesque vitae neque mollis urna mattis laoreet.</li> <li>Divamus sit amet purus justo.</li> <li>Proin molestie egestas orci ac suscipit risus posuere loremous</li> </ol> <h4>Sample Paragraph Text</h4> <p class=\"des des_2\">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p> </div> <div style=\"position: absolute; left: 62px; top: 275px;\" id=\"gtx-trans\"> <div class=\"gtx-trans-icon\"></div> </div>",
+        "published_at": "2021-12-03T15:01:40+05:30",
+        "created_at": "2021-12-03T15:01:42+05:30",
+        "updated_at": "2021-12-29T18:57:26+05:30",
+        "vendor": "minion-vinovatheme",
+        "product_type": "T-Shirt",
+        "tags": [
+          "$10 - $100",
+          "T-Shirt",
+          "Women"
+        ],
+        "variants": [
+          {
+            "id": 41411363307701,
+            "title": "Gray / XS",
+            "option1": "Gray",
+            "option2": "XS",
+            "option3": null,
+            "sku": "YZ-1465-27",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375661822133,
+              "product_id": 7096251482293,
+              "position": 1,
+              "created_at": "2021-12-03T15:01:42+05:30",
+              "updated_at": "2021-12-03T15:01:42+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_b27601e3-4ba8-4cfa-95ea-ded4e0241681.jpg?v=1638523902",
+              "variant_ids": [
+                41411363307701,
+                41411363340469,
+                41411363406005,
+                41411363438773,
+                41411363471541
+              ]
+            },
+            "available": true,
+            "price": "54.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7096251482293,
+            "created_at": "2021-12-03T15:01:42+05:30",
+            "updated_at": "2021-12-03T15:01:42+05:30"
+          },
+          {
+            "id": 41411363340469,
+            "title": "Gray / S",
+            "option1": "Gray",
+            "option2": "S",
+            "option3": null,
+            "sku": "YZ-1465-30",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375661822133,
+              "product_id": 7096251482293,
+              "position": 1,
+              "created_at": "2021-12-03T15:01:42+05:30",
+              "updated_at": "2021-12-03T15:01:42+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_b27601e3-4ba8-4cfa-95ea-ded4e0241681.jpg?v=1638523902",
+              "variant_ids": [
+                41411363307701,
+                41411363340469,
+                41411363406005,
+                41411363438773,
+                41411363471541
+              ]
+            },
+            "available": true,
+            "price": "56.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 2,
+            "product_id": 7096251482293,
+            "created_at": "2021-12-03T15:01:42+05:30",
+            "updated_at": "2021-12-03T15:01:42+05:30"
+          },
+          {
+            "id": 41411363406005,
+            "title": "Gray / M",
+            "option1": "Gray",
+            "option2": "M",
+            "option3": null,
+            "sku": "YZ-1465-33",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375661822133,
+              "product_id": 7096251482293,
+              "position": 1,
+              "created_at": "2021-12-03T15:01:42+05:30",
+              "updated_at": "2021-12-03T15:01:42+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_b27601e3-4ba8-4cfa-95ea-ded4e0241681.jpg?v=1638523902",
+              "variant_ids": [
+                41411363307701,
+                41411363340469,
+                41411363406005,
+                41411363438773,
+                41411363471541
+              ]
+            },
+            "available": true,
+            "price": "64.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 3,
+            "product_id": 7096251482293,
+            "created_at": "2021-12-03T15:01:42+05:30",
+            "updated_at": "2021-12-03T15:01:42+05:30"
+          },
+          {
+            "id": 41411363438773,
+            "title": "Gray / L",
+            "option1": "Gray",
+            "option2": "L",
+            "option3": null,
+            "sku": "YZ-1465-36",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375661822133,
+              "product_id": 7096251482293,
+              "position": 1,
+              "created_at": "2021-12-03T15:01:42+05:30",
+              "updated_at": "2021-12-03T15:01:42+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_b27601e3-4ba8-4cfa-95ea-ded4e0241681.jpg?v=1638523902",
+              "variant_ids": [
+                41411363307701,
+                41411363340469,
+                41411363406005,
+                41411363438773,
+                41411363471541
+              ]
+            },
+            "available": true,
+            "price": "34.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 4,
+            "product_id": 7096251482293,
+            "created_at": "2021-12-03T15:01:42+05:30",
+            "updated_at": "2021-12-03T15:01:42+05:30"
+          },
+          {
+            "id": 41411363471541,
+            "title": "Gray / XL",
+            "option1": "Gray",
+            "option2": "XL",
+            "option3": null,
+            "sku": "YZ-1465-39",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375661822133,
+              "product_id": 7096251482293,
+              "position": 1,
+              "created_at": "2021-12-03T15:01:42+05:30",
+              "updated_at": "2021-12-03T15:01:42+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_b27601e3-4ba8-4cfa-95ea-ded4e0241681.jpg?v=1638523902",
+              "variant_ids": [
+                41411363307701,
+                41411363340469,
+                41411363406005,
+                41411363438773,
+                41411363471541
+              ]
+            },
+            "available": true,
+            "price": "35.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 5,
+            "product_id": 7096251482293,
+            "created_at": "2021-12-03T15:01:42+05:30",
+            "updated_at": "2021-12-03T15:01:42+05:30"
+          },
+          {
+            "id": 41411363504309,
+            "title": "indianred / XS",
+            "option1": "indianred",
+            "option2": "XS",
+            "option3": null,
+            "sku": "YZ-1465-28",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375661854901,
+              "product_id": 7096251482293,
+              "position": 2,
+              "created_at": "2021-12-03T15:01:42+05:30",
+              "updated_at": "2021-12-03T15:01:42+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2_35166ff5-e97f-4951-bcf4-7bb0663c365d.jpg?v=1638523902",
+              "variant_ids": [
+                41411363504309,
+                41411363537077,
+                41411363569845,
+                41411363602613,
+                41411363635381
+              ]
+            },
+            "available": true,
+            "price": "74.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 6,
+            "product_id": 7096251482293,
+            "created_at": "2021-12-03T15:01:42+05:30",
+            "updated_at": "2021-12-03T15:01:42+05:30"
+          },
+          {
+            "id": 41411363537077,
+            "title": "indianred / S",
+            "option1": "indianred",
+            "option2": "S",
+            "option3": null,
+            "sku": "YZ-1465-31",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375661854901,
+              "product_id": 7096251482293,
+              "position": 2,
+              "created_at": "2021-12-03T15:01:42+05:30",
+              "updated_at": "2021-12-03T15:01:42+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2_35166ff5-e97f-4951-bcf4-7bb0663c365d.jpg?v=1638523902",
+              "variant_ids": [
+                41411363504309,
+                41411363537077,
+                41411363569845,
+                41411363602613,
+                41411363635381
+              ]
+            },
+            "available": true,
+            "price": "17.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 7,
+            "product_id": 7096251482293,
+            "created_at": "2021-12-03T15:01:42+05:30",
+            "updated_at": "2021-12-03T15:01:42+05:30"
+          },
+          {
+            "id": 41411363569845,
+            "title": "indianred / M",
+            "option1": "indianred",
+            "option2": "M",
+            "option3": null,
+            "sku": "YZ-1465-34",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375661854901,
+              "product_id": 7096251482293,
+              "position": 2,
+              "created_at": "2021-12-03T15:01:42+05:30",
+              "updated_at": "2021-12-03T15:01:42+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2_35166ff5-e97f-4951-bcf4-7bb0663c365d.jpg?v=1638523902",
+              "variant_ids": [
+                41411363504309,
+                41411363537077,
+                41411363569845,
+                41411363602613,
+                41411363635381
+              ]
+            },
+            "available": true,
+            "price": "21.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 8,
+            "product_id": 7096251482293,
+            "created_at": "2021-12-03T15:01:42+05:30",
+            "updated_at": "2021-12-03T15:01:42+05:30"
+          },
+          {
+            "id": 41411363602613,
+            "title": "indianred / L",
+            "option1": "indianred",
+            "option2": "L",
+            "option3": null,
+            "sku": "YZ-1465-37",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375661854901,
+              "product_id": 7096251482293,
+              "position": 2,
+              "created_at": "2021-12-03T15:01:42+05:30",
+              "updated_at": "2021-12-03T15:01:42+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2_35166ff5-e97f-4951-bcf4-7bb0663c365d.jpg?v=1638523902",
+              "variant_ids": [
+                41411363504309,
+                41411363537077,
+                41411363569845,
+                41411363602613,
+                41411363635381
+              ]
+            },
+            "available": true,
+            "price": "26.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 9,
+            "product_id": 7096251482293,
+            "created_at": "2021-12-03T15:01:42+05:30",
+            "updated_at": "2021-12-03T15:01:42+05:30"
+          },
+          {
+            "id": 41411363635381,
+            "title": "indianred / XL",
+            "option1": "indianred",
+            "option2": "XL",
+            "option3": null,
+            "sku": "YZ-1465-40",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375661854901,
+              "product_id": 7096251482293,
+              "position": 2,
+              "created_at": "2021-12-03T15:01:42+05:30",
+              "updated_at": "2021-12-03T15:01:42+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2_35166ff5-e97f-4951-bcf4-7bb0663c365d.jpg?v=1638523902",
+              "variant_ids": [
+                41411363504309,
+                41411363537077,
+                41411363569845,
+                41411363602613,
+                41411363635381
+              ]
+            },
+            "available": true,
+            "price": "39.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 10,
+            "product_id": 7096251482293,
+            "created_at": "2021-12-03T15:01:42+05:30",
+            "updated_at": "2021-12-03T15:01:42+05:30"
+          },
+          {
+            "id": 41411363668149,
+            "title": "darkslateblue / XS",
+            "option1": "darkslateblue",
+            "option2": "XS",
+            "option3": null,
+            "sku": "YZ-1465-29",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375661887669,
+              "product_id": 7096251482293,
+              "position": 3,
+              "created_at": "2021-12-03T15:01:42+05:30",
+              "updated_at": "2021-12-03T15:01:42+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/3_f8a2f87a-fe30-4049-827b-2630811a2969.jpg?v=1638523902",
+              "variant_ids": [
+                41411363668149,
+                41411363700917,
+                41411363733685,
+                41411363766453,
+                41411363799221
+              ]
+            },
+            "available": true,
+            "price": "48.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 11,
+            "product_id": 7096251482293,
+            "created_at": "2021-12-03T15:01:43+05:30",
+            "updated_at": "2021-12-03T15:01:43+05:30"
+          },
+          {
+            "id": 41411363700917,
+            "title": "darkslateblue / S",
+            "option1": "darkslateblue",
+            "option2": "S",
+            "option3": null,
+            "sku": "YZ-1465-32",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375661887669,
+              "product_id": 7096251482293,
+              "position": 3,
+              "created_at": "2021-12-03T15:01:42+05:30",
+              "updated_at": "2021-12-03T15:01:42+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/3_f8a2f87a-fe30-4049-827b-2630811a2969.jpg?v=1638523902",
+              "variant_ids": [
+                41411363668149,
+                41411363700917,
+                41411363733685,
+                41411363766453,
+                41411363799221
+              ]
+            },
+            "available": true,
+            "price": "66.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 12,
+            "product_id": 7096251482293,
+            "created_at": "2021-12-03T15:01:43+05:30",
+            "updated_at": "2021-12-03T15:01:43+05:30"
+          },
+          {
+            "id": 41411363733685,
+            "title": "darkslateblue / M",
+            "option1": "darkslateblue",
+            "option2": "M",
+            "option3": null,
+            "sku": "YZ-1465-35",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375661887669,
+              "product_id": 7096251482293,
+              "position": 3,
+              "created_at": "2021-12-03T15:01:42+05:30",
+              "updated_at": "2021-12-03T15:01:42+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/3_f8a2f87a-fe30-4049-827b-2630811a2969.jpg?v=1638523902",
+              "variant_ids": [
+                41411363668149,
+                41411363700917,
+                41411363733685,
+                41411363766453,
+                41411363799221
+              ]
+            },
+            "available": true,
+            "price": "57.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 13,
+            "product_id": 7096251482293,
+            "created_at": "2021-12-03T15:01:43+05:30",
+            "updated_at": "2021-12-03T15:01:43+05:30"
+          },
+          {
+            "id": 41411363766453,
+            "title": "darkslateblue / L",
+            "option1": "darkslateblue",
+            "option2": "L",
+            "option3": null,
+            "sku": "YZ-1465-38",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375661887669,
+              "product_id": 7096251482293,
+              "position": 3,
+              "created_at": "2021-12-03T15:01:42+05:30",
+              "updated_at": "2021-12-03T15:01:42+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/3_f8a2f87a-fe30-4049-827b-2630811a2969.jpg?v=1638523902",
+              "variant_ids": [
+                41411363668149,
+                41411363700917,
+                41411363733685,
+                41411363766453,
+                41411363799221
+              ]
+            },
+            "available": true,
+            "price": "55.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 14,
+            "product_id": 7096251482293,
+            "created_at": "2021-12-03T15:01:43+05:30",
+            "updated_at": "2021-12-03T15:01:43+05:30"
+          },
+          {
+            "id": 41411363799221,
+            "title": "darkslateblue / XL",
+            "option1": "darkslateblue",
+            "option2": "XL",
+            "option3": null,
+            "sku": "YZ-1465-41",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375661887669,
+              "product_id": 7096251482293,
+              "position": 3,
+              "created_at": "2021-12-03T15:01:42+05:30",
+              "updated_at": "2021-12-03T15:01:42+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/3_f8a2f87a-fe30-4049-827b-2630811a2969.jpg?v=1638523902",
+              "variant_ids": [
+                41411363668149,
+                41411363700917,
+                41411363733685,
+                41411363766453,
+                41411363799221
+              ]
+            },
+            "available": true,
+            "price": "58.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 15,
+            "product_id": 7096251482293,
+            "created_at": "2021-12-03T15:01:43+05:30",
+            "updated_at": "2021-12-03T15:01:43+05:30"
+          }
+        ],
+        "images": [
+          {
+            "id": 32375661822133,
+            "created_at": "2021-12-03T15:01:42+05:30",
+            "position": 1,
+            "updated_at": "2021-12-03T15:01:42+05:30",
+            "product_id": 7096251482293,
+            "variant_ids": [
+              41411363307701,
+              41411363340469,
+              41411363406005,
+              41411363438773,
+              41411363471541
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_b27601e3-4ba8-4cfa-95ea-ded4e0241681.jpg?v=1638523902",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375661854901,
+            "created_at": "2021-12-03T15:01:42+05:30",
+            "position": 2,
+            "updated_at": "2021-12-03T15:01:42+05:30",
+            "product_id": 7096251482293,
+            "variant_ids": [
+              41411363504309,
+              41411363537077,
+              41411363569845,
+              41411363602613,
+              41411363635381
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2_35166ff5-e97f-4951-bcf4-7bb0663c365d.jpg?v=1638523902",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375661887669,
+            "created_at": "2021-12-03T15:01:42+05:30",
+            "position": 3,
+            "updated_at": "2021-12-03T15:01:42+05:30",
+            "product_id": 7096251482293,
+            "variant_ids": [
+              41411363668149,
+              41411363700917,
+              41411363733685,
+              41411363766453,
+              41411363799221
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/3_f8a2f87a-fe30-4049-827b-2630811a2969.jpg?v=1638523902",
+            "width": 900,
+            "height": 1140
+          }
+        ],
+        "options": [
+          {
+            "name": "Color",
+            "position": 1,
+            "values": [
+              "Gray",
+              "indianred",
+              "darkslateblue"
+            ]
+          },
+          {
+            "name": "Size",
+            "position": 2,
+            "values": [
+              "XS",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7096250663093,
+        "title": "Captivate with this shirt’s",
+        "handle": "captivate-with-this-shirt-s",
+        "body_html": "<div> <p class=\"des des_1\"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p> <img src=\"https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854\" alt=\"\"> <ul class=\"style_type_1\"> <li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li> <li>DO NOT BLEACH</li> <li>DO NOT TUMBLE DRY</li> <li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li> <li>DO NOT DRY CLEAN</li> </ul> <h4>Sample Ordered Lista</h4> <ol class=\"style_type_2\"> <li>Comodous in tempor ullamcorper miaculis</li> <li>Pellentesque vitae neque mollis urna mattis laoreet.</li> <li>Divamus sit amet purus justo.</li> <li>Proin molestie egestas orci ac suscipit risus posuere loremous</li> </ol> <h4>Sample Paragraph Text</h4> <p class=\"des des_2\">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p> </div> <div style=\"position: absolute; left: 62px; top: 275px;\" id=\"gtx-trans\"> <div class=\"gtx-trans-icon\"></div> </div>",
+        "published_at": "2021-12-03T15:01:24+05:30",
+        "created_at": "2021-12-03T15:01:25+05:30",
+        "updated_at": "2021-12-29T18:57:25+05:30",
+        "vendor": "Vinova",
+        "product_type": "T-Shirt",
+        "tags": [
+          "$10 - $100",
+          "Acessories",
+          "T-Shirt",
+          "Vendor Levi's",
+          "Vinova",
+          "Women"
+        ],
+        "variants": [
+          {
+            "id": 41411362422965,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "YX169-23",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375659004085,
+              "product_id": 7096250663093,
+              "position": 1,
+              "created_at": "2021-12-03T15:01:25+05:30",
+              "updated_at": "2021-12-03T15:01:25+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2_39d3a323-a710-48a2-adf1-2f317debf8cf.jpg?v=1638523885",
+              "variant_ids": [
+                41411362422965
+              ]
+            },
+            "available": true,
+            "price": "56.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7096250663093,
+            "created_at": "2021-12-03T15:01:25+05:30",
+            "updated_at": "2021-12-03T15:01:25+05:30"
+          }
+        ],
+        "images": [
+          {
+            "id": 32375659004085,
+            "created_at": "2021-12-03T15:01:25+05:30",
+            "position": 1,
+            "updated_at": "2021-12-03T15:01:25+05:30",
+            "product_id": 7096250663093,
+            "variant_ids": [
+              41411362422965
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2_39d3a323-a710-48a2-adf1-2f317debf8cf.jpg?v=1638523885",
+            "width": 900,
+            "height": 1140
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7096260198581,
+        "title": "Viscose T-shirt",
+        "handle": "viscose-t-shirt",
+        "body_html": "<div> <p class=\"des des_1\"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p> <img src=\"https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854\" alt=\"\"> <ul class=\"style_type_1\"> <li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li> <li>DO NOT BLEACH</li> <li>DO NOT TUMBLE DRY</li> <li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li> <li>DO NOT DRY CLEAN</li> </ul> <h4>Sample Ordered Lista</h4> <ol class=\"style_type_2\"> <li>Comodous in tempor ullamcorper miaculis</li> <li>Pellentesque vitae neque mollis urna mattis laoreet.</li> <li>Divamus sit amet purus justo.</li> <li>Proin molestie egestas orci ac suscipit risus posuere loremous</li> </ol> <h4>Sample Paragraph Text</h4> <p class=\"des des_2\">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p> </div> <div style=\"position: absolute; left: 62px; top: 275px;\" id=\"gtx-trans\"> <div class=\"gtx-trans-icon\"></div> </div>",
+        "published_at": "2021-12-03T15:05:39+05:30",
+        "created_at": "2021-12-03T15:05:43+05:30",
+        "updated_at": "2021-12-29T18:57:34+05:30",
+        "vendor": "Kenzo",
+        "product_type": "T-Shirt",
+        "tags": [
+          "$101 - $200",
+          "Acessories",
+          "Kenzo",
+          "Men",
+          "T-Shirt",
+          "Vendor Levi's",
+          "Women"
+        ],
+        "variants": [
+          {
+            "id": 41411377070261,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "YX160-43",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375692624053,
+              "product_id": 7096260198581,
+              "position": 4,
+              "created_at": "2021-12-03T15:05:43+05:30",
+              "updated_at": "2021-12-03T15:05:43+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_6595c937-2dc6-48c6-a774-c7db0341880d.jpg?v=1638524143",
+              "variant_ids": [
+                41411377070261
+              ]
+            },
+            "available": true,
+            "price": "120.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7096260198581,
+            "created_at": "2021-12-03T15:05:43+05:30",
+            "updated_at": "2021-12-03T15:05:43+05:30"
+          }
+        ],
+        "images": [
+          {
+            "id": 32375692525749,
+            "created_at": "2021-12-03T15:05:43+05:30",
+            "position": 1,
+            "updated_at": "2021-12-03T15:05:43+05:30",
+            "product_id": 7096260198581,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2_8bda2aff-4622-443c-86c5-7f035bc796cb.jpg?v=1638524143",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375692558517,
+            "created_at": "2021-12-03T15:05:43+05:30",
+            "position": 2,
+            "updated_at": "2021-12-03T15:05:43+05:30",
+            "product_id": 7096260198581,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/3_5ca151ca-99a1-41fc-8dbe-8ffc6a7d35b5.jpg?v=1638524143",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375692591285,
+            "created_at": "2021-12-03T15:05:43+05:30",
+            "position": 3,
+            "updated_at": "2021-12-03T15:05:43+05:30",
+            "product_id": 7096260198581,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/4_7b6ca43c-7505-470c-92f3-6e8b5e2b8473.jpg?v=1638524143",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375692624053,
+            "created_at": "2021-12-03T15:05:43+05:30",
+            "position": 4,
+            "updated_at": "2021-12-03T15:05:43+05:30",
+            "product_id": 7096260198581,
+            "variant_ids": [
+              41411377070261
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_6595c937-2dc6-48c6-a774-c7db0341880d.jpg?v=1638524143",
+            "width": 900,
+            "height": 1140
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7096260427957,
+        "title": "The Simpsons T-shirt",
+        "handle": "the-simpsons-t-shirt",
+        "body_html": "<div> <p class=\"des des_1\"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p> <img src=\"https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854\" alt=\"\"> <ul class=\"style_type_1\"> <li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li> <li>DO NOT BLEACH</li> <li>DO NOT TUMBLE DRY</li> <li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li> <li>DO NOT DRY CLEAN</li> </ul> <h4>Sample Ordered Lista</h4> <ol class=\"style_type_2\"> <li>Comodous in tempor ullamcorper miaculis</li> <li>Pellentesque vitae neque mollis urna mattis laoreet.</li> <li>Divamus sit amet purus justo.</li> <li>Proin molestie egestas orci ac suscipit risus posuere loremous</li> </ol> <h4>Sample Paragraph Text</h4> <p class=\"des des_2\">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p> </div> <div style=\"position: absolute; left: 62px; top: 275px;\" id=\"gtx-trans\"> <div class=\"gtx-trans-icon\"></div> </div>",
+        "published_at": "2021-12-03T15:05:44+05:30",
+        "created_at": "2021-12-03T15:05:48+05:30",
+        "updated_at": "2021-12-29T18:57:35+05:30",
+        "vendor": "Kenzo",
+        "product_type": "T-Shirt",
+        "tags": [
+          "$101 - $200",
+          "Acessories",
+          "greenyellow",
+          "Kenzo",
+          "L",
+          "M",
+          "Men",
+          "T-Shirt",
+          "upsell",
+          "Vendor Levi's",
+          "white",
+          "Women",
+          "X",
+          "XL"
+        ],
+        "variants": [
+          {
+            "id": 41411377463477,
+            "title": "white / M",
+            "option1": "white",
+            "option2": "M",
+            "option3": null,
+            "sku": "YX160-36",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375693279413,
+              "product_id": 7096260427957,
+              "position": 1,
+              "created_at": "2021-12-03T15:05:48+05:30",
+              "updated_at": "2021-12-03T15:05:48+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1.jpg?v=1638524148",
+              "variant_ids": [
+                41411377463477
+              ]
+            },
+            "available": true,
+            "price": "105.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7096260427957,
+            "created_at": "2021-12-03T15:05:49+05:30",
+            "updated_at": "2021-12-03T15:05:49+05:30"
+          },
+          {
+            "id": 41411377496245,
+            "title": "white / L",
+            "option1": "white",
+            "option2": "L",
+            "option3": null,
+            "sku": "YX160-37",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375693312181,
+              "product_id": 7096260427957,
+              "position": 2,
+              "created_at": "2021-12-03T15:05:48+05:30",
+              "updated_at": "2021-12-03T15:05:48+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2.jpg?v=1638524148",
+              "variant_ids": [
+                41411377496245
+              ]
+            },
+            "available": true,
+            "price": "106.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 2,
+            "product_id": 7096260427957,
+            "created_at": "2021-12-03T15:05:49+05:30",
+            "updated_at": "2021-12-03T15:05:49+05:30"
+          },
+          {
+            "id": 41411377529013,
+            "title": "white / X",
+            "option1": "white",
+            "option2": "X",
+            "option3": null,
+            "sku": "YX160-38",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375693344949,
+              "product_id": 7096260427957,
+              "position": 3,
+              "created_at": "2021-12-03T15:05:48+05:30",
+              "updated_at": "2021-12-03T15:05:48+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/3.jpg?v=1638524148",
+              "variant_ids": [
+                41411377529013
+              ]
+            },
+            "available": true,
+            "price": "107.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 3,
+            "product_id": 7096260427957,
+            "created_at": "2021-12-03T15:05:49+05:30",
+            "updated_at": "2021-12-03T15:05:49+05:30"
+          },
+          {
+            "id": 41411377561781,
+            "title": "white / XL",
+            "option1": "white",
+            "option2": "XL",
+            "option3": null,
+            "sku": "YX160-39",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375693377717,
+              "product_id": 7096260427957,
+              "position": 4,
+              "created_at": "2021-12-03T15:05:48+05:30",
+              "updated_at": "2021-12-03T15:05:48+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/4.jpg?v=1638524148",
+              "variant_ids": [
+                41411377561781
+              ]
+            },
+            "available": true,
+            "price": "108.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 4,
+            "product_id": 7096260427957,
+            "created_at": "2021-12-03T15:05:49+05:30",
+            "updated_at": "2021-12-03T15:05:49+05:30"
+          },
+          {
+            "id": 41411377594549,
+            "title": "greenyellow / M",
+            "option1": "greenyellow",
+            "option2": "M",
+            "option3": null,
+            "sku": "YX160-41",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375693410485,
+              "product_id": 7096260427957,
+              "position": 5,
+              "created_at": "2021-12-03T15:05:48+05:30",
+              "updated_at": "2021-12-03T15:05:48+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/5.jpg?v=1638524148",
+              "variant_ids": [
+                41411377594549,
+                41411377692853
+              ]
+            },
+            "available": true,
+            "price": "109.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 5,
+            "product_id": 7096260427957,
+            "created_at": "2021-12-03T15:05:49+05:30",
+            "updated_at": "2021-12-03T15:05:49+05:30"
+          },
+          {
+            "id": 41411377627317,
+            "title": "greenyellow / L",
+            "option1": "greenyellow",
+            "option2": "L",
+            "option3": null,
+            "sku": "YX160-42",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375693443253,
+              "product_id": 7096260427957,
+              "position": 6,
+              "created_at": "2021-12-03T15:05:48+05:30",
+              "updated_at": "2021-12-03T15:05:48+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/6_0ff49407-e975-41fe-bd2b-f49c4d5764b9.jpg?v=1638524148",
+              "variant_ids": [
+                41411377627317
+              ]
+            },
+            "available": true,
+            "price": "110.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 6,
+            "product_id": 7096260427957,
+            "created_at": "2021-12-03T15:05:49+05:30",
+            "updated_at": "2021-12-03T15:05:49+05:30"
+          },
+          {
+            "id": 41411377660085,
+            "title": "greenyellow / X",
+            "option1": "greenyellow",
+            "option2": "X",
+            "option3": null,
+            "sku": "YX160-43",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375693476021,
+              "product_id": 7096260427957,
+              "position": 7,
+              "created_at": "2021-12-03T15:05:48+05:30",
+              "updated_at": "2021-12-03T15:05:48+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/7_5e2a5abb-b818-4e17-8564-98a2c98dda6d.jpg?v=1638524148",
+              "variant_ids": [
+                41411377660085
+              ]
+            },
+            "available": true,
+            "price": "111.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 7,
+            "product_id": 7096260427957,
+            "created_at": "2021-12-03T15:05:49+05:30",
+            "updated_at": "2021-12-03T15:05:49+05:30"
+          },
+          {
+            "id": 41411377692853,
+            "title": "greenyellow / XL",
+            "option1": "greenyellow",
+            "option2": "XL",
+            "option3": null,
+            "sku": "YX160-44",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375693410485,
+              "product_id": 7096260427957,
+              "position": 5,
+              "created_at": "2021-12-03T15:05:48+05:30",
+              "updated_at": "2021-12-03T15:05:48+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/5.jpg?v=1638524148",
+              "variant_ids": [
+                41411377594549,
+                41411377692853
+              ]
+            },
+            "available": true,
+            "price": "112.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 8,
+            "product_id": 7096260427957,
+            "created_at": "2021-12-03T15:05:49+05:30",
+            "updated_at": "2021-12-03T15:05:49+05:30"
+          }
+        ],
+        "images": [
+          {
+            "id": 32375693279413,
+            "created_at": "2021-12-03T15:05:48+05:30",
+            "position": 1,
+            "updated_at": "2021-12-03T15:05:48+05:30",
+            "product_id": 7096260427957,
+            "variant_ids": [
+              41411377463477
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1.jpg?v=1638524148",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375693312181,
+            "created_at": "2021-12-03T15:05:48+05:30",
+            "position": 2,
+            "updated_at": "2021-12-03T15:05:48+05:30",
+            "product_id": 7096260427957,
+            "variant_ids": [
+              41411377496245
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2.jpg?v=1638524148",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375693344949,
+            "created_at": "2021-12-03T15:05:48+05:30",
+            "position": 3,
+            "updated_at": "2021-12-03T15:05:48+05:30",
+            "product_id": 7096260427957,
+            "variant_ids": [
+              41411377529013
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/3.jpg?v=1638524148",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375693377717,
+            "created_at": "2021-12-03T15:05:48+05:30",
+            "position": 4,
+            "updated_at": "2021-12-03T15:05:48+05:30",
+            "product_id": 7096260427957,
+            "variant_ids": [
+              41411377561781
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/4.jpg?v=1638524148",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375693410485,
+            "created_at": "2021-12-03T15:05:48+05:30",
+            "position": 5,
+            "updated_at": "2021-12-03T15:05:48+05:30",
+            "product_id": 7096260427957,
+            "variant_ids": [
+              41411377594549,
+              41411377692853
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/5.jpg?v=1638524148",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375693443253,
+            "created_at": "2021-12-03T15:05:48+05:30",
+            "position": 6,
+            "updated_at": "2021-12-03T15:05:48+05:30",
+            "product_id": 7096260427957,
+            "variant_ids": [
+              41411377627317
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/6_0ff49407-e975-41fe-bd2b-f49c4d5764b9.jpg?v=1638524148",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375693476021,
+            "created_at": "2021-12-03T15:05:48+05:30",
+            "position": 7,
+            "updated_at": "2021-12-03T15:05:48+05:30",
+            "product_id": 7096260427957,
+            "variant_ids": [
+              41411377660085
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/7_5e2a5abb-b818-4e17-8564-98a2c98dda6d.jpg?v=1638524148",
+            "width": 900,
+            "height": 1140
+          }
+        ],
+        "options": [
+          {
+            "name": "Color",
+            "position": 1,
+            "values": [
+              "white",
+              "greenyellow"
+            ]
+          },
+          {
+            "name": "Size",
+            "position": 2,
+            "values": [
+              "M",
+              "L",
+              "X",
+              "XL"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7096257675445,
+        "title": "T-shirt with slogan",
+        "handle": "t-shirt-with-slogan",
+        "body_html": "<div> <p class=\"des des_1\"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p> <img src=\"https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854\" alt=\"\"> <ul class=\"style_type_1\"> <li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li> <li>DO NOT BLEACH</li> <li>DO NOT TUMBLE DRY</li> <li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li> <li>DO NOT DRY CLEAN</li> </ul> <h4>Sample Ordered Lista</h4> <ol class=\"style_type_2\"> <li>Comodous in tempor ullamcorper miaculis</li> <li>Pellentesque vitae neque mollis urna mattis laoreet.</li> <li>Divamus sit amet purus justo.</li> <li>Proin molestie egestas orci ac suscipit risus posuere loremous</li> </ol> <h4>Sample Paragraph Text</h4> <p class=\"des des_2\">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p> </div> <div style=\"position: absolute; left: 62px; top: 275px;\" id=\"gtx-trans\"> <div class=\"gtx-trans-icon\"></div> </div>",
+        "published_at": "2021-12-03T15:04:31+05:30",
+        "created_at": "2021-12-03T15:04:34+05:30",
+        "updated_at": "2021-12-29T18:57:32+05:30",
+        "vendor": "Kenzo",
+        "product_type": "T-Shirt",
+        "tags": [
+          "$101 - $200",
+          "Acessories",
+          "Kenzo",
+          "Men",
+          "T-Shirt",
+          "upsell",
+          "Vendor Levi's",
+          "Women"
+        ],
+        "variants": [
+          {
+            "id": 41411373793461,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "YX160-35",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375682334901,
+              "product_id": 7096257675445,
+              "position": 4,
+              "created_at": "2021-12-03T15:04:34+05:30",
+              "updated_at": "2021-12-03T15:04:34+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_e6fe8d6a-e054-4a68-ae4c-84dfb4f66d48.jpg?v=1638524074",
+              "variant_ids": [
+                41411373793461
+              ]
+            },
+            "available": true,
+            "price": "104.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7096257675445,
+            "created_at": "2021-12-03T15:04:34+05:30",
+            "updated_at": "2021-12-03T15:04:34+05:30"
+          }
+        ],
+        "images": [
+          {
+            "id": 32375682236597,
+            "created_at": "2021-12-03T15:04:34+05:30",
+            "position": 1,
+            "updated_at": "2021-12-03T15:04:34+05:30",
+            "product_id": 7096257675445,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2_876a886f-ee08-40cb-9b47-413ea6247571.jpg?v=1638524074",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375682269365,
+            "created_at": "2021-12-03T15:04:34+05:30",
+            "position": 2,
+            "updated_at": "2021-12-03T15:04:34+05:30",
+            "product_id": 7096257675445,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/3_fc83d010-dfe2-4bde-85fb-c063bcf3040c.jpg?v=1638524074",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375682302133,
+            "created_at": "2021-12-03T15:04:34+05:30",
+            "position": 3,
+            "updated_at": "2021-12-03T15:04:34+05:30",
+            "product_id": 7096257675445,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/4_54211fc0-bb91-49f3-b587-9e89c4cab390.jpg?v=1638524074",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375682334901,
+            "created_at": "2021-12-03T15:04:34+05:30",
+            "position": 4,
+            "updated_at": "2021-12-03T15:04:34+05:30",
+            "product_id": 7096257675445,
+            "variant_ids": [
+              41411373793461
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_e6fe8d6a-e054-4a68-ae4c-84dfb4f66d48.jpg?v=1638524074",
+            "width": 900,
+            "height": 1140
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7096260624565,
+        "title": "Solid colour T-shirt",
+        "handle": "solid-colour-t-shirt",
+        "body_html": "<div> <p class=\"des des_1\"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p> <img src=\"https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854\" alt=\"\"> <ul class=\"style_type_1\"> <li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li> <li>DO NOT BLEACH</li> <li>DO NOT TUMBLE DRY</li> <li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li> <li>DO NOT DRY CLEAN</li> </ul> <h4>Sample Ordered Lista</h4> <ol class=\"style_type_2\"> <li>Comodous in tempor ullamcorper miaculis</li> <li>Pellentesque vitae neque mollis urna mattis laoreet.</li> <li>Divamus sit amet purus justo.</li> <li>Proin molestie egestas orci ac suscipit risus posuere loremous</li> </ol> <h4>Sample Paragraph Text</h4> <p class=\"des des_2\">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p> </div> <div style=\"position: absolute; left: 62px; top: 275px;\" id=\"gtx-trans\"> <div class=\"gtx-trans-icon\"></div> </div>",
+        "published_at": "2021-12-03T15:05:54+05:30",
+        "created_at": "2021-12-03T15:05:58+05:30",
+        "updated_at": "2021-12-29T18:57:35+05:30",
+        "vendor": "Kenzo",
+        "product_type": "T-Shirt",
+        "tags": [
+          "$101 - $200",
+          "Acessories",
+          "gray",
+          "Kenzo",
+          "L",
+          "M",
+          "Men",
+          "T-Shirt",
+          "Vendor Levi's",
+          "white",
+          "Women",
+          "XL"
+        ],
+        "variants": [
+          {
+            "id": 41411377954997,
+            "title": "gray / M",
+            "option1": "gray",
+            "option2": "M",
+            "option3": null,
+            "sku": "YX160-26",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375694590133,
+              "product_id": 7096260624565,
+              "position": 1,
+              "created_at": "2021-12-03T15:05:58+05:30",
+              "updated_at": "2021-12-03T15:05:58+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_1cbcba2f-41b2-436f-a804-ea85cffd26fb.jpg?v=1638524158",
+              "variant_ids": [
+                41411377954997,
+                41411378053301
+              ]
+            },
+            "available": true,
+            "price": "96.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7096260624565,
+            "created_at": "2021-12-03T15:05:58+05:30",
+            "updated_at": "2021-12-03T15:05:58+05:30"
+          },
+          {
+            "id": 41411377987765,
+            "title": "gray / L",
+            "option1": "gray",
+            "option2": "L",
+            "option3": null,
+            "sku": "YX160-27",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375694622901,
+              "product_id": 7096260624565,
+              "position": 2,
+              "created_at": "2021-12-03T15:05:58+05:30",
+              "updated_at": "2021-12-03T15:05:58+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2_d2bbf1c3-1d1a-4a26-974d-fff1c821a01b.jpg?v=1638524158",
+              "variant_ids": [
+                41411377987765
+              ]
+            },
+            "available": true,
+            "price": "97.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 2,
+            "product_id": 7096260624565,
+            "created_at": "2021-12-03T15:05:58+05:30",
+            "updated_at": "2021-12-03T15:05:58+05:30"
+          },
+          {
+            "id": 41411378020533,
+            "title": "gray / X",
+            "option1": "gray",
+            "option2": "X",
+            "option3": null,
+            "sku": "YX160-28",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375694655669,
+              "product_id": 7096260624565,
+              "position": 3,
+              "created_at": "2021-12-03T15:05:58+05:30",
+              "updated_at": "2021-12-03T15:05:58+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/3_ae1ed25f-087b-4411-a664-199284640813.jpg?v=1638524158",
+              "variant_ids": [
+                41411378020533
+              ]
+            },
+            "available": true,
+            "price": "98.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 3,
+            "product_id": 7096260624565,
+            "created_at": "2021-12-03T15:05:58+05:30",
+            "updated_at": "2021-12-03T15:05:58+05:30"
+          },
+          {
+            "id": 41411378053301,
+            "title": "gray / XL",
+            "option1": "gray",
+            "option2": "XL",
+            "option3": null,
+            "sku": "YX160-29",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375694590133,
+              "product_id": 7096260624565,
+              "position": 1,
+              "created_at": "2021-12-03T15:05:58+05:30",
+              "updated_at": "2021-12-03T15:05:58+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_1cbcba2f-41b2-436f-a804-ea85cffd26fb.jpg?v=1638524158",
+              "variant_ids": [
+                41411377954997,
+                41411378053301
+              ]
+            },
+            "available": true,
+            "price": "99.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 4,
+            "product_id": 7096260624565,
+            "created_at": "2021-12-03T15:05:58+05:30",
+            "updated_at": "2021-12-03T15:05:58+05:30"
+          },
+          {
+            "id": 41411378086069,
+            "title": "white / M",
+            "option1": "white",
+            "option2": "M",
+            "option3": null,
+            "sku": "YX160-31",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375694721205,
+              "product_id": 7096260624565,
+              "position": 5,
+              "created_at": "2021-12-03T15:05:58+05:30",
+              "updated_at": "2021-12-03T15:05:58+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/5_0fe568eb-48fe-484b-b865-7114a68b9247.jpg?v=1638524158",
+              "variant_ids": [
+                41411378086069,
+                41411378151605
+              ]
+            },
+            "available": true,
+            "price": "100.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 5,
+            "product_id": 7096260624565,
+            "created_at": "2021-12-03T15:05:58+05:30",
+            "updated_at": "2021-12-03T15:05:58+05:30"
+          },
+          {
+            "id": 41411378118837,
+            "title": "white / L",
+            "option1": "white",
+            "option2": "L",
+            "option3": null,
+            "sku": "YX160-32",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375694753973,
+              "product_id": 7096260624565,
+              "position": 6,
+              "created_at": "2021-12-03T15:05:58+05:30",
+              "updated_at": "2021-12-03T15:05:58+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/6_5255ce62-a12c-40af-8f19-404535b17c12.jpg?v=1638524158",
+              "variant_ids": [
+                41411378118837,
+                41411378184373
+              ]
+            },
+            "available": true,
+            "price": "101.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 6,
+            "product_id": 7096260624565,
+            "created_at": "2021-12-03T15:05:58+05:30",
+            "updated_at": "2021-12-03T15:05:58+05:30"
+          },
+          {
+            "id": 41411378151605,
+            "title": "white / X",
+            "option1": "white",
+            "option2": "X",
+            "option3": null,
+            "sku": "YX160-33",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375694721205,
+              "product_id": 7096260624565,
+              "position": 5,
+              "created_at": "2021-12-03T15:05:58+05:30",
+              "updated_at": "2021-12-03T15:05:58+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/5_0fe568eb-48fe-484b-b865-7114a68b9247.jpg?v=1638524158",
+              "variant_ids": [
+                41411378086069,
+                41411378151605
+              ]
+            },
+            "available": true,
+            "price": "102.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 7,
+            "product_id": 7096260624565,
+            "created_at": "2021-12-03T15:05:58+05:30",
+            "updated_at": "2021-12-03T15:05:58+05:30"
+          },
+          {
+            "id": 41411378184373,
+            "title": "white / XL",
+            "option1": "white",
+            "option2": "XL",
+            "option3": null,
+            "sku": "YX160-34",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375694753973,
+              "product_id": 7096260624565,
+              "position": 6,
+              "created_at": "2021-12-03T15:05:58+05:30",
+              "updated_at": "2021-12-03T15:05:58+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/6_5255ce62-a12c-40af-8f19-404535b17c12.jpg?v=1638524158",
+              "variant_ids": [
+                41411378118837,
+                41411378184373
+              ]
+            },
+            "available": true,
+            "price": "103.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 8,
+            "product_id": 7096260624565,
+            "created_at": "2021-12-03T15:05:58+05:30",
+            "updated_at": "2021-12-03T15:05:58+05:30"
+          }
+        ],
+        "images": [
+          {
+            "id": 32375694590133,
+            "created_at": "2021-12-03T15:05:58+05:30",
+            "position": 1,
+            "updated_at": "2021-12-03T15:05:58+05:30",
+            "product_id": 7096260624565,
+            "variant_ids": [
+              41411377954997,
+              41411378053301
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_1cbcba2f-41b2-436f-a804-ea85cffd26fb.jpg?v=1638524158",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375694622901,
+            "created_at": "2021-12-03T15:05:58+05:30",
+            "position": 2,
+            "updated_at": "2021-12-03T15:05:58+05:30",
+            "product_id": 7096260624565,
+            "variant_ids": [
+              41411377987765
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2_d2bbf1c3-1d1a-4a26-974d-fff1c821a01b.jpg?v=1638524158",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375694655669,
+            "created_at": "2021-12-03T15:05:58+05:30",
+            "position": 3,
+            "updated_at": "2021-12-03T15:05:58+05:30",
+            "product_id": 7096260624565,
+            "variant_ids": [
+              41411378020533
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/3_ae1ed25f-087b-4411-a664-199284640813.jpg?v=1638524158",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375694688437,
+            "created_at": "2021-12-03T15:05:58+05:30",
+            "position": 4,
+            "updated_at": "2021-12-03T15:05:58+05:30",
+            "product_id": 7096260624565,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/4_c47db932-916f-4754-93fd-c4856a5df12b.jpg?v=1638524158",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375694721205,
+            "created_at": "2021-12-03T15:05:58+05:30",
+            "position": 5,
+            "updated_at": "2021-12-03T15:05:58+05:30",
+            "product_id": 7096260624565,
+            "variant_ids": [
+              41411378086069,
+              41411378151605
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/5_0fe568eb-48fe-484b-b865-7114a68b9247.jpg?v=1638524158",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375694753973,
+            "created_at": "2021-12-03T15:05:58+05:30",
+            "position": 6,
+            "updated_at": "2021-12-03T15:05:58+05:30",
+            "product_id": 7096260624565,
+            "variant_ids": [
+              41411378118837,
+              41411378184373
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/6_5255ce62-a12c-40af-8f19-404535b17c12.jpg?v=1638524158",
+            "width": 900,
+            "height": 1140
+          }
+        ],
+        "options": [
+          {
+            "name": "Color",
+            "position": 1,
+            "values": [
+              "gray",
+              "white"
+            ]
+          },
+          {
+            "name": "Size",
+            "position": 2,
+            "values": [
+              "M",
+              "L",
+              "X",
+              "XL"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7096258756789,
+        "title": "Rick & Morty T-shirt",
+        "handle": "rick-morty-t-shirt",
+        "body_html": "<div> <p class=\"des des_1\"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p> <img src=\"https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854\" alt=\"\"> <ul class=\"style_type_1\"> <li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li> <li>DO NOT BLEACH</li> <li>DO NOT TUMBLE DRY</li> <li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li> <li>DO NOT DRY CLEAN</li> </ul> <h4>Sample Ordered Lista</h4> <ol class=\"style_type_2\"> <li>Comodous in tempor ullamcorper miaculis</li> <li>Pellentesque vitae neque mollis urna mattis laoreet.</li> <li>Divamus sit amet purus justo.</li> <li>Proin molestie egestas orci ac suscipit risus posuere loremous</li> </ol> <h4>Sample Paragraph Text</h4> <p class=\"des des_2\">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p> </div> <div style=\"position: absolute; left: 62px; top: 275px;\" id=\"gtx-trans\"> <div class=\"gtx-trans-icon\"></div> </div>",
+        "published_at": "2021-12-03T15:04:54+05:30",
+        "created_at": "2021-12-03T15:04:58+05:30",
+        "updated_at": "2021-12-29T18:57:33+05:30",
+        "vendor": "Kenzo",
+        "product_type": "T-Shirt",
+        "tags": [
+          "$10 - $100",
+          "Acessories",
+          "Kenzo",
+          "Men",
+          "T-Shirt",
+          "upsell",
+          "Vendor Levi's"
+        ],
+        "variants": [
+          {
+            "id": 41411375071413,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "YX160-22",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375686627509,
+              "product_id": 7096258756789,
+              "position": 5,
+              "created_at": "2021-12-03T15:04:59+05:30",
+              "updated_at": "2021-12-03T15:04:59+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_5ace9120-ca0c-4bb4-a23d-6e8eac424cee.jpg?v=1638524099",
+              "variant_ids": [
+                41411375071413
+              ]
+            },
+            "available": true,
+            "price": "92.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7096258756789,
+            "created_at": "2021-12-03T15:04:59+05:30",
+            "updated_at": "2021-12-03T15:24:21+05:30"
+          }
+        ],
+        "images": [
+          {
+            "id": 32375686496437,
+            "created_at": "2021-12-03T15:04:59+05:30",
+            "position": 1,
+            "updated_at": "2021-12-03T15:04:59+05:30",
+            "product_id": 7096258756789,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2_6a620374-a5e9-4a24-86d9-cd1b2365c4ac.jpg?v=1638524099",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375686529205,
+            "created_at": "2021-12-03T15:04:59+05:30",
+            "position": 2,
+            "updated_at": "2021-12-03T15:04:59+05:30",
+            "product_id": 7096258756789,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/3_6ee06723-29c4-48d9-96b7-9b5df7d38fa1.jpg?v=1638524099",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375686561973,
+            "created_at": "2021-12-03T15:04:59+05:30",
+            "position": 3,
+            "updated_at": "2021-12-03T15:04:59+05:30",
+            "product_id": 7096258756789,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/4_68856f05-bec8-4226-aa1d-5b430bf6f48f.jpg?v=1638524099",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375686594741,
+            "created_at": "2021-12-03T15:04:59+05:30",
+            "position": 4,
+            "updated_at": "2021-12-03T15:04:59+05:30",
+            "product_id": 7096258756789,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/5_51987b2a-057e-4d03-9833-a28af1329729.jpg?v=1638524099",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375686627509,
+            "created_at": "2021-12-03T15:04:59+05:30",
+            "position": 5,
+            "updated_at": "2021-12-03T15:04:59+05:30",
+            "product_id": 7096258756789,
+            "variant_ids": [
+              41411375071413
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_5ace9120-ca0c-4bb4-a23d-6e8eac424cee.jpg?v=1638524099",
+            "width": 900,
+            "height": 1140
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7096259313845,
+        "title": "Printed T-shirt",
+        "handle": "printed-t-shirt",
+        "body_html": "<div> <p class=\"des des_1\"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p> <img src=\"https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854\" alt=\"\"> <ul class=\"style_type_1\"> <li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li> <li>DO NOT BLEACH</li> <li>DO NOT TUMBLE DRY</li> <li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li> <li>DO NOT DRY CLEAN</li> </ul> <h4>Sample Ordered Lista</h4> <ol class=\"style_type_2\"> <li>Comodous in tempor ullamcorper miaculis</li> <li>Pellentesque vitae neque mollis urna mattis laoreet.</li> <li>Divamus sit amet purus justo.</li> <li>Proin molestie egestas orci ac suscipit risus posuere loremous</li> </ol> <h4>Sample Paragraph Text</h4> <p class=\"des des_2\">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p> </div> <div style=\"position: absolute; left: 62px; top: 275px;\" id=\"gtx-trans\"> <div class=\"gtx-trans-icon\"></div> </div>",
+        "published_at": "2021-12-03T15:05:08+05:30",
+        "created_at": "2021-12-03T15:05:13+05:30",
+        "updated_at": "2021-12-29T18:57:33+05:30",
+        "vendor": "Burberry",
+        "product_type": "T-Shirt",
+        "tags": [
+          "$10 - $100",
+          "Acessories",
+          "Burberry",
+          "Men",
+          "T-Shirt",
+          "Vendor Levi's",
+          "Women"
+        ],
+        "variants": [
+          {
+            "id": 41411375694005,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "YX160-20",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375688396981,
+              "product_id": 7096259313845,
+              "position": 4,
+              "created_at": "2021-12-03T15:05:13+05:30",
+              "updated_at": "2021-12-03T15:05:13+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_e4c62983-0449-42e2-800a-e4a7eb83ef4f.jpg?v=1638524113",
+              "variant_ids": [
+                41411375694005
+              ]
+            },
+            "available": true,
+            "price": "90.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7096259313845,
+            "created_at": "2021-12-03T15:05:14+05:30",
+            "updated_at": "2021-12-03T15:05:14+05:30"
+          }
+        ],
+        "images": [
+          {
+            "id": 32375688265909,
+            "created_at": "2021-12-03T15:05:13+05:30",
+            "position": 1,
+            "updated_at": "2021-12-03T15:05:13+05:30",
+            "product_id": 7096259313845,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2_0bf8a75c-97c8-430a-92f6-8217cf338e84.jpg?v=1638524113",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375688298677,
+            "created_at": "2021-12-03T15:05:13+05:30",
+            "position": 2,
+            "updated_at": "2021-12-03T15:05:13+05:30",
+            "product_id": 7096259313845,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/3_1b709cb2-d751-4667-bb2a-0681f4b13b79.jpg?v=1638524113",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375688331445,
+            "created_at": "2021-12-03T15:05:13+05:30",
+            "position": 3,
+            "updated_at": "2021-12-03T15:05:13+05:30",
+            "product_id": 7096259313845,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/4_e3fc2e20-06c2-47e3-8d2e-a463ef7dfe62.jpg?v=1638524113",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375688396981,
+            "created_at": "2021-12-03T15:05:13+05:30",
+            "position": 4,
+            "updated_at": "2021-12-03T15:05:13+05:30",
+            "product_id": 7096259313845,
+            "variant_ids": [
+              41411375694005
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_e4c62983-0449-42e2-800a-e4a7eb83ef4f.jpg?v=1638524113",
+            "width": 900,
+            "height": 1140
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7096258363573,
+        "title": "Polka dot short sleeve shirt",
+        "handle": "polka-dot-short-sleeve-shirt",
+        "body_html": "<div> <p class=\"des des_1\"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p> <img src=\"https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854\" alt=\"\"> <ul class=\"style_type_1\"> <li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li> <li>DO NOT BLEACH</li> <li>DO NOT TUMBLE DRY</li> <li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li> <li>DO NOT DRY CLEAN</li> </ul> <h4>Sample Ordered Lista</h4> <ol class=\"style_type_2\"> <li>Comodous in tempor ullamcorper miaculis</li> <li>Pellentesque vitae neque mollis urna mattis laoreet.</li> <li>Divamus sit amet purus justo.</li> <li>Proin molestie egestas orci ac suscipit risus posuere loremous</li> </ol> <h4>Sample Paragraph Text</h4> <p class=\"des des_2\">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p> </div> <div style=\"position: absolute; left: 62px; top: 275px;\" id=\"gtx-trans\"> <div class=\"gtx-trans-icon\"></div> </div>",
+        "published_at": "2021-12-03T15:04:46+05:30",
+        "created_at": "2021-12-03T15:04:49+05:30",
+        "updated_at": "2021-12-29T18:57:33+05:30",
+        "vendor": "Burberry",
+        "product_type": "T-Shirt",
+        "tags": [
+          "$10 - $100",
+          "Acessories",
+          "Burberry",
+          "Men",
+          "T-Shirt",
+          "Vendor Levi's",
+          "Women"
+        ],
+        "variants": [
+          {
+            "id": 41411374579893,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "YX160-19",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375684530357,
+              "product_id": 7096258363573,
+              "position": 4,
+              "created_at": "2021-12-03T15:04:49+05:30",
+              "updated_at": "2021-12-03T15:04:49+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_f88eabc9-069f-4203-bc75-c72f896163ab.jpg?v=1638524089",
+              "variant_ids": [
+                41411374579893
+              ]
+            },
+            "available": true,
+            "price": "89.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7096258363573,
+            "created_at": "2021-12-03T15:04:50+05:30",
+            "updated_at": "2021-12-03T15:04:50+05:30"
+          }
+        ],
+        "images": [
+          {
+            "id": 32375684432053,
+            "created_at": "2021-12-03T15:04:49+05:30",
+            "position": 1,
+            "updated_at": "2021-12-03T15:04:49+05:30",
+            "product_id": 7096258363573,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2_9631ac9e-b9e6-4ce5-a7bd-347c9b32de2e.jpg?v=1638524089",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375684464821,
+            "created_at": "2021-12-03T15:04:49+05:30",
+            "position": 2,
+            "updated_at": "2021-12-03T15:04:49+05:30",
+            "product_id": 7096258363573,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/3_fb20b8a8-958c-4871-bda8-4da856a115b9.jpg?v=1638524089",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375684497589,
+            "created_at": "2021-12-03T15:04:49+05:30",
+            "position": 3,
+            "updated_at": "2021-12-03T15:04:49+05:30",
+            "product_id": 7096258363573,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/4_d1ea5c92-8e10-4e2d-b9dd-28c3730375d5.jpg?v=1638524089",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375684530357,
+            "created_at": "2021-12-03T15:04:49+05:30",
+            "position": 4,
+            "updated_at": "2021-12-03T15:04:49+05:30",
+            "product_id": 7096258363573,
+            "variant_ids": [
+              41411374579893
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_f88eabc9-069f-4203-bc75-c72f896163ab.jpg?v=1638524089",
+            "width": 900,
+            "height": 1140
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7096258560181,
+        "title": "Jack men's satin shirt",
+        "handle": "satin-shirt",
+        "body_html": "<div> <p class=\"des des_1\"><span>Captivate with this shirt’s versatile urban look that works as well at happy hour as it does in the back yard. The real mother of pearl buttons and embroidered crocodile complete its elegant appeal.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</span></p> <img src=\"https://cdn.shopify.com/s/files/1/0256/4594/0810/files/image_des.png?v=1615432854\" alt=\"\"> <ul class=\"style_type_1\"> <li>MACHINE WASH AT MAX.TEMP. 30° C - NORMAL PROCESS</li> <li>DO NOT BLEACH</li> <li>DO NOT TUMBLE DRY</li> <li>IRON AT MAX. TEMP. OF 110° C WITHOUT STEAM</li> <li>DO NOT DRY CLEAN</li> </ul> <h4>Sample Ordered Lista</h4> <ol class=\"style_type_2\"> <li>Comodous in tempor ullamcorper miaculis</li> <li>Pellentesque vitae neque mollis urna mattis laoreet.</li> <li>Divamus sit amet purus justo.</li> <li>Proin molestie egestas orci ac suscipit risus posuere loremous</li> </ol> <h4>Sample Paragraph Text</h4> <p class=\"des des_2\">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus. Donec quam felis, ultri cies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p> </div> <div style=\"position: absolute; left: 62px; top: 275px;\" id=\"gtx-trans\"> <div class=\"gtx-trans-icon\"></div> </div>",
+        "published_at": "2021-12-03T15:04:50+05:30",
+        "created_at": "2021-12-03T15:04:53+05:30",
+        "updated_at": "2021-12-29T18:57:33+05:30",
+        "vendor": "Kenzo",
+        "product_type": "T-Shirt",
+        "tags": [
+          "$10 - $100",
+          "Acessories",
+          "Kenzo",
+          "Men",
+          "T-Shirt",
+          "Vendor Levi's",
+          "Women"
+        ],
+        "variants": [
+          {
+            "id": 41411374809269,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "YX160-23",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 32375685808309,
+              "product_id": 7096258560181,
+              "position": 5,
+              "created_at": "2021-12-03T15:04:54+05:30",
+              "updated_at": "2021-12-03T15:04:54+05:30",
+              "alt": null,
+              "width": 900,
+              "height": 1140,
+              "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_7431498e-5c7a-4907-9713-12e276efcc2f.jpg?v=1638524094",
+              "variant_ids": [
+                41411374809269
+              ]
+            },
+            "available": true,
+            "price": "93.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7096258560181,
+            "created_at": "2021-12-03T15:04:54+05:30",
+            "updated_at": "2021-12-03T15:04:54+05:30"
+          }
+        ],
+        "images": [
+          {
+            "id": 32375685677237,
+            "created_at": "2021-12-03T15:04:54+05:30",
+            "position": 1,
+            "updated_at": "2021-12-03T15:04:54+05:30",
+            "product_id": 7096258560181,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/2_fd22ac81-3aae-454b-9151-fa67d5e9d61c.jpg?v=1638524094",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375685710005,
+            "created_at": "2021-12-03T15:04:54+05:30",
+            "position": 2,
+            "updated_at": "2021-12-03T15:04:54+05:30",
+            "product_id": 7096258560181,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/3_d04e6e9d-3cbe-43aa-aa8d-a58a41547083.jpg?v=1638524094",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375685742773,
+            "created_at": "2021-12-03T15:04:54+05:30",
+            "position": 3,
+            "updated_at": "2021-12-03T15:04:54+05:30",
+            "product_id": 7096258560181,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/4_c5a31af3-e9ff-4b04-9eaa-44f4f68d245a.jpg?v=1638524094",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375685775541,
+            "created_at": "2021-12-03T15:04:54+05:30",
+            "position": 4,
+            "updated_at": "2021-12-03T15:04:54+05:30",
+            "product_id": 7096258560181,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/5_b5d996b0-8835-43dc-bba9-1664f7bd131f.jpg?v=1638524094",
+            "width": 900,
+            "height": 1140
+          },
+          {
+            "id": 32375685808309,
+            "created_at": "2021-12-03T15:04:54+05:30",
+            "position": 5,
+            "updated_at": "2021-12-03T15:04:54+05:30",
+            "product_id": 7096258560181,
+            "variant_ids": [
+              41411374809269
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0581/7663/5061/products/1_7431498e-5c7a-4907-9713-12e276efcc2f.jpg?v=1638524094",
+            "width": 900,
+            "height": 1140
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      }
+    ]
+  }
